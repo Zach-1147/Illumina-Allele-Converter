@@ -1,4 +1,4 @@
-# Allele Orientation Conversion Tool For Infinium Genotyping Array Data
+# Allele Conversion Tool For Infinium Genotyping Array Data
 
 This is a command line tool that supports converting between different allele-reporting formats in an illumina Infinium GDA final report. 
 
